@@ -1,14 +1,17 @@
 +++
-title = "Vintage"
-weight = 3
+title = "Pages"
+weight = 2
 draft = false
 
-slogan = "life is a learning curve"
-imgLeft = "images/hero-left.jpg"
-imgRight = "images/hero-right.jpg"
+# Section you want to display
+section = "posts"
+# Pages count
+count = 5
+# Options: card, plain and masonry.
+style = "plain"
 
 [widget]
-  handler = "vintage"
+  handler = "pages"
     
   # Options: sm, md, lg and xl. Default is md.
   width = ""
@@ -21,7 +24,7 @@ imgRight = "images/hero-right.jpg"
     
   [widget.background]
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color = "secondary"
+    color = ""
     
     # See TODO
     image = ""
