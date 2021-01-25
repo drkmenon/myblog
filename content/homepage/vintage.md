@@ -1,7 +1,7 @@
 +++
 title = "Vintage"
 weight = 3
-draft = false
+draft = true
 
 slogan = "life is a learning curve"
 imgLeft = "images/hero-left.jpg"
