@@ -68,6 +68,6 @@ Interests:
 
 Education:
 
-- FRCS Tr & Orth, 2019, Royal College of Surgeons of England
-- MS in Orthopaedics, 2008, GMC, Kozhikode
-- D Ortho in Orthopaedics, 2007, GMC, Kozhikode
+- FRCS Tr & Orth, Royal College of Surgeons of England
+- MS in Orthopaedics, GMC, Kozhikode
+- D Ortho in Orthopaedics, GMC, Kozhikode
