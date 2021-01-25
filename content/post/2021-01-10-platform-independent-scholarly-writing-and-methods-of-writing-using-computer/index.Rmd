@@ -1,0 +1,73 @@
+---
+title: "Platform independent scholarly writing and methods of writing using computer"
+author: "Kishore Puthezhath"
+date: '2021-01-10'
+slug: academic-writin-r-pandoc
+categories: Scholarly writing
+tags: Academic
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-10T23:14:20+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: mypub.bib
+csl: vancouver.csl
+link-citations: yes
+---
+{{% callout note %}}
+This is all you have to know for your `initial preperation` of platform independent academic writing.
+{{% /callout %}}
+
+Scholarly writing is a necessary requirement for any one in Academia. There are many ways to do this. Many people use multiple software to complete their writing using computers. Most of them use anyone or the combination of the following list of “traditional word processors”, which of course is not an exhaustive list.
+
++ Microsoft office
++ Libreoffice
++ LaTEX, lyx
++ Scrivener, Ullysses
++ Markdown softwares like adam
++ pages
++ google docs
+
+>The exchange of documents and conversion to different formats is a problem with these software.
+
+I tried a lot of tools for education and scientific writing. I started off with Microsoft office. Later on I used scrivener and lyx for some time. This introduced me to Markdown and I started using drafts a lot.
+
+Amount of time spent in finding a proper workflow, converting documents to different formats, storing them without getting lost and last but not the least, **the version control** made me search and search and I finally found out a very efficient work flow. This workflow basically covers everything I need to do with my writing in one go, that too using a single open-source environment.
+
++ Write technical papers and cite while I am writing
++ Statistical analysis
++ Automatic version control
++ Automatic saving in the cloud
++ Potential to convert to any document format known to me
++ On the fly publishing in the personal website
+
+Having said that, there is some learning curve and the initial hard-work needed to achieve this is enormous. Once you have created the workflow and ironed out the `errors`, this will be a life long asset, period.
+
+Following are the requirements:
+
+>+ I use a `MacBook Air`
++ `r` and `RStudio`
++ xQuartz
++ `pandoc`
++ `Zotero` and `Better Bibtex`
++ GitHub account
++ Netlify account
++ LaTEX
++ Use `Rmd` for most cases except course and posts requiring mermaid. In those cases use `md` (Always from the file, not from new post from addins)
+
+{{% alert note %}}
+Setup requires a  cetain amount of lerrning curve, but once completed, your academic writing output will be changed for good for ever.
+{{% /alert %}}
+
+
+<mark>With this workflow you donot have to first think which output format you want.</mark>
+
+`I will try to walk you through every step involved in the creation of this workflow in the forth coming posts.` 
+
+
+
