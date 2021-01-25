@@ -17,7 +17,7 @@ title: Featured Image
 toc: true
 ---
 
-Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.
+Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus. 
 
 <!--more-->
 
