@@ -56,6 +56,8 @@ avatar = "images/icon.png"
 
 Kishore Puthezhath FRCS is a professor (associate) of orthopaedics and consultant paediatric orthopaedic surgeon at the KUHS. His research interests include paediatric deformities, biostatistics and Oualitative research using ‘r’. He leads the Paediatric Orthopaedics in a tertiary teaching hospital in Kerala.
 
+>**The Orthopaedic and Medical education resources  including the `FRCS notes` originally posted in this domain are now available [here](https://knotes.co.in)**
+
 ## Details  
 
 Interests:
