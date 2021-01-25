@@ -4,7 +4,7 @@ authors:
 categories: []
 date: "2019-03-05"
 description: Guide to emoji usage in Hugo
-draft: false
+draft: true
 lastmod: "2019-03-05"
 series: []
 summary: ""

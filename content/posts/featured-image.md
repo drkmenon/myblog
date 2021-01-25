@@ -5,7 +5,7 @@ categories:
 - themes
 date: "2020-05-26"
 description: Post with featured image.
-draft: false
+draft: true
 featuredImage: images/hero-right.jpg
 lastmod: "2020-05-26"
 series:

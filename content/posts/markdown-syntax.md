@@ -7,7 +7,7 @@ categories:
 date: "2019-03-11"
 description: Sample article showcasing basic Markdown syntax and formatting for HTML
   elements.
-draft: false
+draft: true
 lastmod: "2019-03-11"
 series:
 - Themes Guide
