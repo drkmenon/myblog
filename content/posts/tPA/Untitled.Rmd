@@ -7,7 +7,7 @@ tags:
 - COVID19
 - Vaccination
 - Personal experience
-draft: true
+draft: false
 ---
 
 ```{r setup, include=FALSE}
