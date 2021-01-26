@@ -11,13 +11,11 @@ series:
 - Personal experience
 summary: ""
 series:
-- Themes Guide
+- Academic writing
 summary: ""
 tags:
 - markdown
-- css
-- html
-- themes
+- scholarly writing
 title: Platform independent scholarly writing and methods of writing using computer
 toc: true
 ---
