@@ -22,7 +22,7 @@ toc: true
 ---
 
 Mangala suthra
-
+ 
 <!--more-->
 
 ## Definition of Object and the Subject
