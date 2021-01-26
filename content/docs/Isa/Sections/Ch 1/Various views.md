@@ -3,7 +3,7 @@ authors:
 - Author Kishore
 categories: []
 date: "2021-01-26"
-weight: 3
+weight: 2
 description: View of Chapter 1 of Isa
 draft: false
 lastmod: "2020-10-16"
