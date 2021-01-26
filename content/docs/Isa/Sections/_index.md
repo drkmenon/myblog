@@ -11,3 +11,4 @@ tags: []
 title: Isa Upanishad
 toc: true
 ---
+Isa Upanishad has got a special place among various upanishads. According to experts like Sankara, it is one of the foremost upanishads.
