@@ -1,6 +1,6 @@
 +++
-title = ""
-weight = 2
+title = "experiences"
+weight = 1
 draft = false
 
 # Section you want to display
