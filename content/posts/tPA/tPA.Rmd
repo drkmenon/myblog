@@ -1,6 +1,7 @@
 ---
 title: "tPA"
-authors: "Kishore Puthezhath"
+authors:
+- Author Kishore
 date: "2021-01-26"
 output: html_document
 tags:
@@ -8,6 +9,9 @@ tags:
 - Vaccination
 - Personal experience
 draft: false
+bibliography: mypub.bib
+csl: vancouver.csl
+link-citations: yes
 ---
 
 ```{r setup, include=FALSE}
