@@ -20,7 +20,7 @@ toc: true
 
 
 
-Sharing a great vaccination experience
+I am fortunate enough to receive the COVID19 vaccine on 23/1/21. Here I am sharing a great vaccination experience I had and I will be regularly updating the document, watching for any vaccine related adverse reactions and potential period of immunity. 
 <!--more-->
 
 ## What is Covishield?
