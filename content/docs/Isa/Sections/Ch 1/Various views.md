@@ -4,13 +4,13 @@ authors:
 categories: []
 date: "2021-01-26"
 weight: 3
-description: Chapter 1 of Isa
+description: View of Chapter 1 of Isa
 draft: false
 lastmod: "2020-10-16"
 series: []
 summary: ""
 tags: []
-title: Chapter 1
+title: Various views
 toc: true
 ---
 
