@@ -8,6 +8,6 @@ lastmod: "2020-10-16"
 series: []
 summary: ""
 tags: []
-title: Isa Upanishad
+title: Chapter 1
 toc: true
 ---
