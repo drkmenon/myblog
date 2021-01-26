@@ -1,5 +1,5 @@
 +++
-title = "experiences"
+title = "experience"
 weight = 1
 draft = false
 
