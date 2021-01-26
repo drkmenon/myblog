@@ -8,7 +8,7 @@ tags:
 - COVID19
 - Vaccination
 - Personal experience
-draft: false
+draft: true
 bibliography: mypub.bib
 csl: vancouver.csl
 link-citations: yes
