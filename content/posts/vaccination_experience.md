@@ -3,7 +3,7 @@ authors:
 - Author Kishore
 categories: []
 date: "2021-01-23"
-description: Lorem Ipsum Dolor Si Amet
+description: Sharing a great vaccination experience
 draft: false
 lastmod: "2021-01-25"
 featuredImage: images/me.png
