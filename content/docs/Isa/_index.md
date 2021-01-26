@@ -2,12 +2,12 @@
 authors: []
 categories: []
 date: "2020-10-16"
-description: An inquiry into Isa Upanishad
+description: An inquiry into philosophy of life
 draft: false
 lastmod: "2020-10-16"
 series: []
 summary: ""
 tags: []
-title: Isa Upanishad
+title: Upanishad
 toc: true
 ---
