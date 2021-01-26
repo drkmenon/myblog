@@ -1,7 +1,9 @@
 ---
-authors: []
+authors:
+- Author Kishore
 categories: []
-date: "2020-10-16"
+date: "2021-01-26"
+weight: 4
 description: Chapter 2 of Isa Upanishad
 draft: false
 lastmod: "2020-10-16"

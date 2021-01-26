@@ -4,7 +4,7 @@ authors:
 categories: []
 date: "2021-01-26"
 description: An enquiry in to isa upanishads
-draft: false
+draft: true
 lastmod: "2021-01-26"
 featuredImage: 
 series:

@@ -3,6 +3,7 @@ authors:
 - Author Kishore
 categories: []
 date: "2021-01-26"
+weight: 2
 description: An enquiry in to isa upanishads
 draft: false
 lastmod: "2021-01-26"
