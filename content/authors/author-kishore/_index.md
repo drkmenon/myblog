@@ -1,5 +1,5 @@
 ---
-avatar: images/icon.png
+avatar: images/avatar.jpg
 bio: Professor Associate, Paediatric Orthopaedic Surgeon, Medical educator.
 organization:
   name: knotes
