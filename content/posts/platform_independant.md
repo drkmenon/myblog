@@ -3,7 +3,7 @@ authors:
 - Author Kishore
 categories: []
 date: "2021-01-11"
-description: Lorem Ipsum Dolor Si Amet
+description: platform independant scholarly writing
 draft: false
 lastmod: "2021-01-25"
 featuredImage: 
