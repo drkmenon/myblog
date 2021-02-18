@@ -1,5 +1,6 @@
 ---
 layout: doc-list
-title: Docs
-draft: true
+title: Book review
+draft: false
 ---
+coming soon
