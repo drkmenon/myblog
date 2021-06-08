@@ -47,3 +47,7 @@ In the end, I felt a flood of relief and gratitude that vaccines are becoming av
 
 Personally I experienced no adverse vaccine related reactions as of 26-1-21
 
+## Second dose
+
+Took second dose of Astrazenica covishield vaccine on 20.2.21
+
