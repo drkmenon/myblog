@@ -25,7 +25,7 @@ What the upanishad is trying to achieve
 
 <!--more-->
 
-## Introduction
+# Introduction
 
 ### Awareness
 
